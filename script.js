@@ -4,8 +4,7 @@ function myFunction() {
   console.log(gogo);
 
   if (gogo == "peacekeeper") {
-    alert("Nice working")
-    window.location.href = 'https://www.google.com/';
+    alert("VHYHQ QLQH VLA  (+3)")
     
     //  block of code to be executed if the condition is true
   } else {
